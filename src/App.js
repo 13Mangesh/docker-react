@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
 	return (
 		<div className="App">
-			<h1>First Docker Environment application</h1>
+			<h1>First Docker Environment App</h1>
 		</div>
 	);
 }
